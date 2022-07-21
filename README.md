@@ -1,6 +1,9 @@
 # ATodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+Angular CLI: 14.1.0
+Node: 16.14.2
+Package Manager: npm 8.5.0
 
 ## Development server
 
